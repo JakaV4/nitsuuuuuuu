@@ -15,10 +15,8 @@ global.gopay = '085785694474'
 //=============『 Info Bot 』=================//
 global.namebot = 'Nitsu Botz'
 global.gc = 'https://chat.whatsapp.com/ED7th5Ie38eBayZEbDPxwY'
-global.web = 'https://instagram.com/itsme_nitsu' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.price1 = 'SEWA BOT 10K PERMANEN 
-MINAT? CHAT 
-Https://wa.me/6285785694474'
+global.web = 'https://hyzerr-apii.herokuapp.com' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.price1 = 'SEWA BOT 10K PERMANEN '
 
 //=======『 Tampilan Dan Lainnya 』============//
 global.fotonya1 = 'https://telegra.ph/file/5a83aa02a4d96e453ee38.jpg' //ganti jadi foto bot mu
