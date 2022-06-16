@@ -16,7 +16,31 @@ global.gopay = '085785694474'
 global.namebot = 'Nitsu Botz'
 global.gc = 'https://chat.whatsapp.com/ED7th5Ie38eBayZEbDPxwY'
 global.web = 'https://hyzerr-apii.herokuapp.com' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.price1 = 'SEWA BOT 10K PERMANEN '
+global.price1 = 'SEWA BOT
+┏━━〔 ıll HARGA llı 〕━
+┃⌬ 10K PERMANEN
+┃⌬ 15K DAPET 2 BOT
+┃⌬ VIA DANA/GOPAY
+┃⌬ (VIA PULSA +5K)
+┗━━━━━━━━━━━━━㉿
+┏━━〔 ıll KELEBIHAN llı 〕━
+◎ BOT ON 24 JAM NONSTOP
+◎ FITUR BANYAK
+◎ FAST RESPON
+◎ NO ERROR
+◎ DAN LAIN LAIN
+◎ MINAT? HUBUNGI NOMOR
+┗━━━━━━━━━━━━━
+   ♡ ㅤ     ❍ㅤ       ⎙ㅤ       ⌲
+
+⫹⫺ NO OWNER  : Wa.me/6285785694474
+⫹⫺ PENTING!! : JANGAN SPAM, TO THE POIN AJA
+
+•DANA (081335334848)
+•GOPAY (085785694474)
+•PULSA (081335334848)
+
+📮 NOTE: JIKA BOT TIDAK MERESPON/MATI SILAKAN HUBUNGI OWNER'
 
 //=======『 Tampilan Dan Lainnya 』============//
 global.fotonya1 = 'https://telegra.ph/file/5a83aa02a4d96e453ee38.jpg' //ganti jadi foto bot mu
