@@ -1,32 +1,32 @@
 //=============『 Utama 』================== //
-global.owner = ['6285785694474'] 
+global.owner = ['6289502469663'] 
 global.mods = [] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Jaka Kun'
-global.numberowner = '6285785694474'
-global.instagram = 'https://instagram.com/itsme_nitsu'
-global.github = 'https://github.com/JakaV3'
-global.dana = '081335334848'
-global.pulsa = '081335334848'
-global.gopay = '085785694474'
+global.nameowner = 'syaa'
+global.numberowner = '6289502469663'
+global.instagram = '-'
+global.github = '-'
+global.dana = '08999044777'
+global.pulsa = '08999044777'
+global.gopay = '08999044777'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'Nitsu Botz'
-global.gc = 'https://chat.whatsapp.com/ED7th5Ie38eBayZEbDPxwY'
-global.web = 'https://hyzerr-apii.herokuapp.com' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.price1 = 'SEWA BOT 10K PERMANEN'
+global.namebot = 'Clarie bot'
+global.gc = 'https://chat.whatsapp.com/HpIeJ3qnbVcFG7xuW9s32N'
+global.web = 'https://Instagram/itsme_nitsu' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.price1 = 'SEWA BOT, HUBUNGI OWNER'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://telegra.ph/file/5a83aa02a4d96e453ee38.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/5a83aa02a4d96e453ee38.jpg' //ini juga ganti 
+global.fotonya1 = 'https://telegra.ph/file/a9ddaa47e0221283a1fca.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/a9ddaa47e0221283a1fca.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = 'Nitsu Botz'
+global.wm = 'Clarie bot'
 global.watermark = wm
-global.wm2 = '                     「 Nitsu Botz あ⁩ 」'
-global.wm3 = '⫹⫺ Nitsu Botz'
+global.wm2 = '                     「 Clarie bot あ⁩ 」'
+global.wm3 = '⫹⫺ Clarie bot'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
@@ -37,7 +37,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = 'Stiker sedang dibuat'
 global.packname = '2022'
-global.author = '© Jaka-Kun'
+global.author = '© Clarie bot'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
