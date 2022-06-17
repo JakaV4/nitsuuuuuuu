@@ -1,32 +1,32 @@
 //=============『 Utama 』================== //
-global.owner = ['6289502469663'] 
+global.owner = ['6285785694474'] 
 global.mods = [] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'syaa'
-global.numberowner = '6289502469663'
-global.instagram = '-'
-global.github = '-'
-global.dana = '08999044777'
-global.pulsa = '08999044777'
-global.gopay = '08999044777'
+global.nameowner = 'ī.am/Jaka.ꪶ͢kunꫂ⁩'
+global.numberowner = '6285785694474'
+global.instagram = 'https://Instagram/itsme_nitsu'
+global.github = 'https://Instagram/itsme_nitsu'
+global.dana = '081335334848'
+global.pulsa = '081335334848'
+global.gopay = '085785694474'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'Clarie bot'
-global.gc = 'https://chat.whatsapp.com/HpIeJ3qnbVcFG7xuW9s32N'
+global.namebot = 'Nitsuꪶ͢Botzꫂ⁩'
+global.gc = 'https://chat.whatsapp.com/ED7th5Ie38eBayZEbDPxwY'
 global.web = 'https://Instagram/itsme_nitsu' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.price1 = 'SEWA BOT, HUBUNGI OWNER'
+global.price1 = 'SEWA BOT 10K PERMANEN'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://telegra.ph/file/a9ddaa47e0221283a1fca.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/a9ddaa47e0221283a1fca.jpg' //ini juga ganti 
+global.fotonya1 = 'https://telegra.ph/file/84c2347c3891eeedf0ab7.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/84c2347c3891eeedf0ab7.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = 'Clarie bot'
+global.wm = 'Nitsuꪶ͢Botzꫂ⁩'
 global.watermark = wm
-global.wm2 = '                     「 Clarie bot あ⁩ 」'
-global.wm3 = '⫹⫺ Clarie bot'
+global.wm2 = '                     「 Nitsuꪶ͢Botzꫂ⁩ あ⁩ 」'
+global.wm3 = '⫹⫺ Nitsuꪶ͢Botzꫂ⁩'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
